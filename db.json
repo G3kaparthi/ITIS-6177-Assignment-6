@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Mhanath"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "Gaayathri"
+    },
+    {
+      "id": "7a1e",
+      "title": "cloud",
+      "author": "fabio"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "a comment about post 1",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "another comment about post 1",
+      "postId": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
